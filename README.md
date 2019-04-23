@@ -26,7 +26,7 @@ When training and testing the data I allowed for 5000 interations through the ne
 
 Overall these results look really good. 
 
-|Dataset 2: Germain Credit Data|           |
+|Dataset 2: Germain Credit|           |
 |-------------------|:------------------:|
 | Training Accuracy | 0.6973333333333334 |
 | Validation Accuracy | 0.6|
