@@ -38,3 +38,6 @@ These results are a little lower than I would like, but that is likely due to th
 
 ## References
 [How to Build you Own Neural Network from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+
+
+** *I uploaded just .py files in addition to my jupyter notebooks. If running the .py files you will need pandas and numpy and to run type python Project3_NeuralNetwork-Dataset1 or Project3_NeuralNetwork-Dataset2*
