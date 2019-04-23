@@ -4,6 +4,7 @@ Python Implementation of Neural Network from Scratch using numpy
 ## Datasets
 
 [Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/mushroom) : From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible
+
 [German Credit Data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)) : This dataset classifies people described by a set of attributes as good or bad credit risks.
 
 When importing both of these dataset I normalized the values in each column, excluding the classification column. Also, in this process if the data had letters instead of numbers I converted it to numbers using the same normalization process. 
